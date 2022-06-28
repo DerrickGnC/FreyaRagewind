@@ -1,0 +1,58 @@
+{
+    "Freya Ragewind":
+    {
+        "First Name": "Freya",
+        "Last Name": "Ragewind",
+        "Handler": "Derrick Hensley",
+        "Birthdate": "1990-05-15",
+        "Diety": "Rhalgr",
+        "Race": "Cat Girl",
+        "Associates":
+            {
+                "MistMoon":
+                    {
+                        "Name": "MistMoon",
+                        "Handler": "Misty"
+                    },
+                "Yuichi":
+                    {
+                        "Name":"Yuichi",
+                        "Handler": "Redacted",
+                        "Occupation":"Duelist"
+                    },
+                "Peachy":
+                    {
+                        "Name":"Peachy",
+                        "Handler": "Pixel"
+                    },
+                "Becant":
+                    {
+                        "Name": "Becant",
+                        "Nickname": "Bec",
+                        "Occupation":"Gamer"
+                    }
+            },
+        "Personality": "Confident",
+        "Favorite Color":
+            {
+                "Pink":
+                {
+                    "Color":"Pink",
+                    "Hex Code": "#ee7a95",
+                    "Red":"238",
+                    "Green":"122",
+                    "Blue":"149"
+                }
+            },
+        "Favorite Game": "Final Fantasy 6",
+        "Favorite Foor": "Rice",
+        "Familiar":
+            {
+                "Name":"Impulse",
+                "Species": "Darner Dragonfly",
+                "Details": "Might have been a Noulith that survived the expulsion into the current reflection, Normally stays on Freya's Back, but when needed it flies out spreading out it's Aether Wings. It has a green body, but it's 'eyes' glow with a soft pale blue."
+            },
+        "Nemesis":"A sociopathic court Jester,turned mad god",
+        "Lore": "Freya was once a Warrior of Light, sworn to potect the mother crystal, but after a run in with the mad clown Kefka was exiled to a different reflection of the crystal. One day she hopes to go back home, but until then she makes due."
+    }
+}
